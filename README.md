@@ -14,6 +14,4 @@ tsc -w
 ## Running Server (any of those commands)
 ```
 npm run start:dev
-nodemon dist/
-node dist/
 ```

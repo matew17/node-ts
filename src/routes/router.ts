@@ -5,7 +5,7 @@ const router = Router();
 router.get('/messages', (req: Request, res: Response) => {
     res.json({
         ok: true,
-        message: 'Everthing is ok with cold reload'
+        message: 'Everthing is ok'
     })
 });
 
